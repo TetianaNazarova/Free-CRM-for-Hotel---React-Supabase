@@ -47,7 +47,7 @@ A modern, performant, and fully functional **Hotel CRM system** built using **Re
 git clone https://github.com/TetianaNazarova/Free-CRM-for-Hotel---React-Supabase.git
 cd Free-CRM-for-Hotel---React-Supabase
 npm install
-
+```bash
 ---
 
 ## 👨‍💻 About the Developer
