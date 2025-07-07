@@ -47,3 +47,35 @@ A modern, performant, and fully functional **Hotel CRM system** built using **Re
 git clone https://github.com/TetianaNazarova/Free-CRM-for-Hotel---React-Supabase.git
 cd Free-CRM-for-Hotel---React-Supabase
 npm install
+
+👨‍💻 About the Developer
+Hi! I’m a passionate React & Fullstack Developer with 6+ years of experience in front-end development (Vue, Angular) and a strong focus on React, Next.js, and Node.js.
+
+This project demonstrates:
+
+Real-world use of modern React ecosystem tools
+
+Clean code, scalability, and modularity
+
+Experience working with backend-as-a-service (BaaS)
+
+Ability to design usable UIs with performance in mind
+
+📫 Open to new opportunities
+If you're looking for a React developer to join your team or freelance project — let's connect!
+
+💬 Contact Me
+📧 Email: tetiananazarovag@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/tetiana-nazarova-24b951235/
+
+🌐 Portfolio: yourwebsite.com
+
+🧠 Want to Contribute or Hire Me?
+Clone and customize this CRM for your business
+
+Contact me for new features, white-label versions, or full-stack support
+
+Or hire me to build your next modern React application 🚀
+
+
