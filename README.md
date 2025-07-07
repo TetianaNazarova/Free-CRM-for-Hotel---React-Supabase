@@ -21,15 +21,15 @@ A modern, performant, and fully functional **Hotel CRM system** built using **Re
 
 ---
 
-## 🖼️ Screenshots
+[comment]: <> ## 🖼️ Screenshots
 
-![Dashboard View](./screenshots/dashboard.png)
-![Reservations Calendar](./screenshots/calendar.png)
-![Guests Management](./screenshots/guests.png)
+[comment]: <> ![Dashboard View](./screenshots/dashboard.png)
+[comment]: <> ![Reservations Calendar](./screenshots/calendar.png)
+[comment]: <> ![Guests Management](./screenshots/guests.png)
 
-> More screenshots in the `/screenshots` folder.
+[comment]: <> > More screenshots in the `/screenshots` folder.
 
----
+[comment]: <> ---
 
 ## ⚙️ Tech Stack
 
