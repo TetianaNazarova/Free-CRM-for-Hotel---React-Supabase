@@ -83,3 +83,11 @@ Or hire me to build your next modern React application 🚀
 git clone https://github.com/TetianaNazarova/Free-CRM-for-Hotel---React-Supabase.git
 cd Free-CRM-for-Hotel---React-Supabase
 npm install
+
+Create a free Supabase account
+
+Set up your .env file using .env.example
+
+Run the dev server:
+
+npm run dev
