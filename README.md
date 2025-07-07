@@ -20,17 +20,17 @@ A modern, performant, and fully functional **Hotel CRM system** built using **Re
 - 🧪 Built with **Vite**, **ESLint**, **Prettier** for performance and code quality
 
 ---
+<!---
+## 🖼️ Screenshots
 
-[comment]: <> ## 🖼️ Screenshots
+![Dashboard View](./screenshots/dashboard.png)
+![Reservations Calendar](./screenshots/calendar.png)
+![Guests Management](./screenshots/guests.png)
 
-[comment]: <> ![Dashboard View](./screenshots/dashboard.png)
-[comment]: <> ![Reservations Calendar](./screenshots/calendar.png)
-[comment]: <> ![Guests Management](./screenshots/guests.png)
+> More screenshots in the `/screenshots` folder.
 
-[comment]: <> > More screenshots in the `/screenshots` folder.
-
-[comment]: <> ---
-
+---
+-->
 ## ⚙️ Tech Stack
 
 | Frontend       | Backend            | Libraries & Tools                 |
@@ -64,7 +64,7 @@ If you're looking for a React developer to join your team or freelance project �
 
 💼 LinkedIn: https://www.linkedin.com/in/tetiana-nazarova-24b951235/
 
-🌐 Portfolio: yourwebsite.com
+<!--- 🌐 Portfolio: yourwebsite.com -->
 
 ---
 
