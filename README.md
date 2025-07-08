@@ -42,7 +42,7 @@ A modern, performant, and fully functional **Hotel CRM system** built using **Re
 ---
 
 ## 👨‍💻 About the Developer
-Hi! I’m a passionate React & Fullstack Developer with 6+ years of experience in front-end development (Vue, Angular) and a strong focus on React, Next.js, and Node.js.
+Hi! I’m a passionate React & Fullstack Developer with 6+ years of experience in front-end development (Vue, Angular, JavaScript, TypeScript) and a strong focus on React, Next.js, TypeScript and Node.js.
 
 This project demonstrates:
 
